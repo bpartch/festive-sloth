@@ -1,7 +1,7 @@
 {
   "title": "Metalpedia",
-  "layout_style": "list",
-  "palette": "black",
+  "layout_style": "grid",
+  "palette": "blue",
   "header": {
     "title": "Metalpedia",
     "logo_img": "images/logo.png",
