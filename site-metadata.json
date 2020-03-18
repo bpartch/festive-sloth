@@ -1,14 +1,14 @@
 {
   "title": "Metalpedia",
   "layout_style": "grid",
-  "palette": "blue",
+  "palette": "black",
   "header": {
     "title": "Metalpedia",
     "logo_img": "images/logo.png",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy;2019 Metalpedia All rights reserved.",
+    "content": "&copy;2020 Metalpedia All rights reserved.",
     "links": [],
     "has_social": true
   }
